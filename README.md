@@ -71,10 +71,3 @@ Python: pandas, NumPy, SciPy, statsmodels, Matplotlib, seaborn.
 
 - `Final_project.ipynb` — код, пояснения и результаты анализа.
 - `requirements.txt` — зависимости Python.
-
-Notebook можно просмотреть на GitHub.
-Исходные CSV не включены в репозиторий; для повторного запуска
-необходимы шесть файлов с именами, указанными в коде.
-
-Установка зависимостей:
-`python -m pip install -r requirements.txt`
